@@ -2,7 +2,7 @@
 
 # 🎓 AI-Based Attendance Management System
 
-> 📌 *Undergraduate Final Year Project (2021–22)*  
+> 📌 *Undergraduate Final Year Project (2020–21)*  
 > 🔒 This project is archived and provided for academic/reference use only.
 
 ---
